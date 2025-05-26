@@ -22,23 +22,23 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "ycz.jpg"
+  name             : "Chengzhang Yu"
+  pronouns         : "he/him"  
+  bio              : "Chengzhang Yu is a Ph.D. candidate at South China University of Technology, specializing in Large Language Models (LLMs), Multimodal Medical Artificial Intelligence, and Agent & Multi-Agent Systems (MAS). His research focuses on advancing AI-driven clinical decision-making and intelligent autonomous systems through multimodal learning and collaborative agents."
+  location         : "Guangzhou, China"
+  employer         : "South China University of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "iomgaaycz@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
