@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.png?v=2024"
   name             : "Chengzhang Yu"
   pronouns         : "he/him"  
   bio              : "Chengzhang Yu is a Ph.D. candidate at South China University of Technology, specializing in Large Language Models (LLMs), Multimodal Medical Artificial Intelligence, and Agent & Multi-Agent Systems (MAS). His research focuses on advancing AI-driven clinical decision-making and intelligent autonomous systems through multimodal learning and collaborative agents."
