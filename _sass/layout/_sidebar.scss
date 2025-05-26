@@ -134,6 +134,8 @@
 
 .sidebar .author__desktop {
   display: none;
+  word-break: break-word;
+  white-space: normal;
   @media screen and (min-width: 1024px) {
     display: block;
   }
